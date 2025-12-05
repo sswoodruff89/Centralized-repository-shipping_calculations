@@ -1,5 +1,5 @@
-# Here is a new update by sswoodruff89@gmail.com
-
+# Here is a new update by sswoodruff89@
+# Here is another update by sswoodruff89
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
